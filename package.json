@@ -1,5 +1,5 @@
 {
-  "name": "demo",
+  "name": "sw-cli",
   "version": "1.0.0",
   "main": "index.js",
   "bin": {
@@ -8,8 +8,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "files": [
+    "bin",
+    "lib",
+    "images"
+  ],
+  "author": {
+    "name": "su",
+    "email": "suwei1996728@gmail.com"
+  },
+  "keywords": [
+    "sw-cli",
+    "su",
+    "脚手架"
+  ],
   "license": "ISC",
   "dependencies": {
     "axios": "^1.1.3",
