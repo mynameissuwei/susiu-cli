@@ -1,5 +1,5 @@
 {
-  "name": "sw-cli",
+  "name": "susiu-cli",
   "version": "1.0.0",
   "main": "index.js",
   "bin": {
