@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "bin": {
-    "sw": "bin/sw.js"
+    "susiu": "bin/sw.js",
+    "susiu-cli": "bin/sw.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,11 +15,11 @@
     "images"
   ],
   "author": {
-    "name": "su",
+    "name": "susiu",
     "email": "suwei1996728@gmail.com"
   },
   "keywords": [
-    "sw-cli",
+    "susiu-cli",
     "su",
     "脚手架"
   ],
