@@ -1,18 +1,18 @@
 ## susiu-cli 脚手架
 
-- 版本 1.0.1
+- 版本 1.0.0
 - 功能: 支持下载模板 `create` 命令
-- 全局命令可使用 `sw`
+- 全局命令可使用 `susiu`
 
 ## 使用
 
 目前主要功能为 create 命令，使用方法类似 vue-cli。
 
+<!-- ![](./images/sw-cli.gif) -->
+
 ```jsx
 susiu create app
 ```
-
-![](./images/sw-cli.gif)
 
 ## 采用三方模块
 
