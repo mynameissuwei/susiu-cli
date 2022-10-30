@@ -14,6 +14,10 @@
     "lib",
     "images"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mynameissuwei/sw-cli.git"
+  },
   "author": {
     "name": "susiu",
     "email": "suwei1996728@gmail.com"
